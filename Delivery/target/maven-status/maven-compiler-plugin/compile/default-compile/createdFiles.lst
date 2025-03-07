@@ -1,0 +1,10 @@
+local/PolicyHandler.class
+local/Delivery.class
+local/DeliveryRepository.class
+local/Application.class
+local/config/kafka/KafkaProcessor.class
+local/DeliveryController.class
+local/AbstractEvent$1.class
+local/OrderRejected.class
+local/AbstractEvent.class
+local/OrderReceived.class
