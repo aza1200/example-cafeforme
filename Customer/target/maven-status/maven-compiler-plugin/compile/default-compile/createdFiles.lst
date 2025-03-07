@@ -1,1 +1,17 @@
+local/OrderController.class
+local/Order.class
+local/OrderStatus.class
+local/OrderCancelRequested.class
+local/CustomerApplication.class
+local/OrderSelected.class
+local/PaymentCompleted.class
+local/OrderStatusViewHandler.class
+local/PolicyHandler.class
+local/config/kafka/KafkaProcessor.class
 local/AbstractEvent$1.class
+local/OrderRejected.class
+local/AbstractEvent.class
+local/OrderStatusRepository.class
+local/OrderCancelConfirmed.class
+local/OrderReceived.class
+local/OrderRepository.class
